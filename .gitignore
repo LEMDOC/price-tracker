@@ -1,3 +1,6 @@
 venv/
 __pycache__/
 *.pyc
+notifier.py
+price_tracker.log
+.env

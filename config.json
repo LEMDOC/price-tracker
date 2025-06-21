@@ -3,7 +3,7 @@
     "url": "https://eu.patagonia.com/de/de/product/mens-better-sweater-fleece-jacket/191743874994.html",
     "site": "patagonia",
     "name": "Men's Better Sweater Fleece Jacket",
-    "target_price": 140,
+    "target_price": 14,
     "color": "stonewash",
     "size": "M"
   },
@@ -11,8 +11,8 @@
     "url": "https://eu.patagonia.com/de/de/product/mens-classic-retro-x-fleece-jacket/198077124122.html",
     "site": "patagonia",
     "name": "Men's Classic Retro-X® Fleece Jacket",
-    "target_price": 300,
+    "target_price": 500,
     "color": "Natural w/Smolder Blue",
-    "size": "XS"
+    "size": "M"
   }
 ]

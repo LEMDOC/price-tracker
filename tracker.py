@@ -1,3 +1,4 @@
+from notifier import send_email
 import json
 import asyncio
 import schedule
