@@ -90,3 +90,21 @@
 2025-06-22 00:28:50,993 - INFO - Price: 230.0 €
 2025-06-22 00:28:50,993 - INFO - Available: True
 2025-06-22 00:28:50,993 - INFO - !!! Price dropped below target: 230.0 € for Natural w/Smolder Blue size XS !!!
+2025-06-22 00:32:37,954 - INFO - --- 2025-06-22 00:32:37 ---
+2025-06-22 00:32:37,954 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-better-sweater-fleece-jacket/191743874994.html
+2025-06-22 00:32:44,591 - INFO - Price: 150.0 €
+2025-06-22 00:32:44,592 - INFO - Available: True
+2025-06-22 00:32:44,592 - INFO - --- 2025-06-22 00:32:44 ---
+2025-06-22 00:32:44,592 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-classic-retro-x-fleece-jacket/198077124122.html
+2025-06-22 00:32:50,144 - INFO - Price: 230.0 €
+2025-06-22 00:32:50,145 - INFO - Available: True
+2025-06-22 00:32:50,145 - INFO - !!! Price dropped below target: 230.0 € for Natural w/Smolder Blue size XS !!!
+2025-06-22 00:33:00,601 - INFO - --- 2025-06-22 00:33:00 ---
+2025-06-22 00:33:00,601 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-better-sweater-fleece-jacket/191743874994.html
+2025-06-22 00:33:06,787 - INFO - Price: 150.0 €
+2025-06-22 00:33:06,787 - INFO - Available: True
+2025-06-22 00:33:06,787 - INFO - --- 2025-06-22 00:33:06 ---
+2025-06-22 00:33:06,787 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-classic-retro-x-fleece-jacket/198077124122.html
+2025-06-22 00:33:12,368 - INFO - Price: 230.0 €
+2025-06-22 00:33:12,368 - INFO - Available: True
+2025-06-22 00:33:12,368 - INFO - !!! Price dropped below target: 230.0 € for Natural w/Smolder Blue size XS !!!
