@@ -1,5 +1,7 @@
 import json
 import asyncio
+import schedule
+import time
 from scrapers.patagonia import parse
 
 async def check_prices():
@@ -9,7 +11,6 @@ async def check_prices():
     for product in products:
         print(f"Checking product: {product['url']}")
         try:
-            # We pass color and size like your working standalone version
             price, available = await parse(product['color'], product['size'])
             print(f"Price: {price} €, Available: {available}")
 
@@ -18,5 +19,16 @@ async def check_prices():
         except Exception as e:
             print(f"Error checking product: {e}")
 
-if __name__ == "__main__":
+def job():
     asyncio.run(check_prices())
+
+if __name__ == "__main__":
+    # Run immediately once on startup
+    job()
+
+    # Schedule: run every hour
+    schedule.every(1).minutes.do(job)
+
+    while True:
+        schedule.run_pending()
+        time.sleep(60)
