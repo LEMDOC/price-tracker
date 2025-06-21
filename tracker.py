@@ -13,7 +13,7 @@ async def check_prices():
         print(f"--- {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ---")
         print(f"Checking product: {product['url']}")
         try:
-            price, available = await parse(product['color'], product['size'])
+            price, available = await parse(product['url'], product['color'], product['size'])
             print(f"Name: {product.get('name', 'Unknown product')}")
             print(f"Color: {product['color']}, Size: {product['size']}")
             print(f"Price: {price} €, Available: {available}")

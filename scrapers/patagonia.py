@@ -1,12 +1,12 @@
 import asyncio
 from playwright.async_api import async_playwright
 
-async def parse(desired_color, desired_size):
+async def parse(url, desired_color, desired_size):
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=False)
         context = await browser.new_context()
         page = await context.new_page()
-        url = "https://eu.patagonia.com/de/de/product/mens-better-sweater-fleece-jacket/191743874994.html"
+
         await page.goto(url)
 
         try:
@@ -16,7 +16,6 @@ async def parse(desired_color, desired_size):
         except:
             print("No cookie popup found (or appeared too late)")
 
-        # Scroll to bottom to force load
         await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
         await asyncio.sleep(3)
 
@@ -33,5 +32,7 @@ async def parse(desired_color, desired_size):
         print(f"DEBUG: Price {price} €, Available: {available}")
         return price, available
 
+# Only for standalone testing
 if __name__ == "__main__":
-    asyncio.run(parse("stonewash", "M"))
+    test_url = "https://eu.patagonia.com/de/de/product/mens-better-sweater-fleece-jacket/191743874994.html"
+    asyncio.run(parse(test_url, "stonewash", "M"))

@@ -6,5 +6,13 @@
     "target_price": 90,
     "color": "stonewash",
     "size": "M"
+  },
+  {
+    "url": "https://eu.patagonia.com/de/de/product/mens-classic-retro-x-fleece-jacket/198077124122.html",
+    "site": "patagonia",
+    "name": "Men's Classic Retro-X® Fleece Jacket",
+    "target_price": 100,
+    "color": "Natural w/Smolder Blue",
+    "size": "M"
   }
 ]
