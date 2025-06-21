@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 
 def parse(response, desired_color, desired_size):
     soup = BeautifulSoup(response.text, 'html.parser')
+    print(soup.prettify())
 
     # Get price element
     price_element = soup.find('span', class_='product-prices__price')
