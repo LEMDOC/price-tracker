@@ -3,7 +3,7 @@ from playwright.async_api import async_playwright
 
 async def parse(desired_color, desired_size):
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=False)  # (keep headless=False for debugging)
+        browser = await p.chromium.launch(headless=False)
         context = await browser.new_context()
         page = await context.new_page()
         url = "https://eu.patagonia.com/de/de/product/mens-better-sweater-fleece-jacket/191743874994.html"
@@ -16,11 +16,11 @@ async def parse(desired_color, desired_size):
         except:
             print("No cookie popup found (or appeared too late)")
 
-        # SCROLL to bottom to force full load
+        # Scroll to bottom to force load
         await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-        await asyncio.sleep(3)  # Give it a few seconds to load content after scroll
+        await asyncio.sleep(3)
 
-        await page.wait_for_selector('span.value[itemprop="price"]', timeout=20000)
+        await page.wait_for_selector('span.value[itemprop="price"]', timeout=20000, state='attached')
         price_element = await page.query_selector('span.value[itemprop="price"]')
         price_content = await price_element.get_attribute("content")
         price = float(price_content.replace(',', '.'))
