@@ -6,13 +6,13 @@
       "url": "https://eu.patagonia.com/de/de/product/mens-better-sweater-fleece-jacket/191743874994.html",
       "color": "stonewash",
       "size": "M",
-      "target_price": 900
+      "target_price": 120
     },
     {
       "url": "https://eu.patagonia.com/de/de/product/mens-classic-retro-x-fleece-jacket/198077124122.html",
       "site": "patagonia",
       "name": "Men's Classic Retro-X® Fleece Jacket",
-      "target_price": 230,
+      "target_price": 150,
       "color": "Natural w/Smolder Blue",
       "size": "M"
     },
@@ -124,7 +124,7 @@
       "url": "https://eu.patagonia.com/de/de/product/capilene-midweight-liner-gloves/194187039189.html",
       "site": "patagonia",
       "name": "Capilene® Midweight Liner Gloves",
-      "target_price": 300,
+      "target_price": 30,
       "color": "Black",
       "size": "M"
     }
