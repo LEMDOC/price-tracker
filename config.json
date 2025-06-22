@@ -1,5 +1,5 @@
 {
-  "check_interval_minutes": 60,
+  "check_interval_minutes": 3,
   "products": [
     {
       "name": "Men's Better Sweater Fleece Jacket",
