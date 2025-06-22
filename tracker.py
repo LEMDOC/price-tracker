@@ -32,24 +32,24 @@ async def check_prices():
             print(f"\033[95mName: {product.get('name', 'Unknown product')}\033[0m")  # Purple name
             print(f"\033[97mColor: {product['color']}\033[0m")  # White
             print(f"\033[97mSize: {product['size']}\033[0m")    # White
-
             print(f"Price: {price} €")
             print(f"Available: {available}")
 
-            # ✅ FORCE EMAIL SEND — no matter price or availability
-            print(f"\033[91m!!! FORCE SENDING EMAIL FOR DEBUG !!!\033[0m")
-            subject = f"DEBUG TEST: {product.get('name')} now at {price}€"
-            body = (
-                f"Product: {product.get('name')}\n"
-                f"URL: {product['url']}\n"
-                f"Color: {product['color']}\n"
-                f"Size: {product['size']}\n"
-                f"Price: {price} €\n"
-                f"Target price: {product['target_price']} €\n"
-            )
-            send_email(subject, body)
-            print("DEBUG: Email function successfully called")
-        
+            # ✅ SEND EMAIL ONLY IF PRICE <= TARGET AND AVAILABLE
+            if price <= product['target_price'] and available:
+                print(f"\033[92m!!! Sending email: Price below target and available! \033[0m")
+                subject = f"PRICE ALERT: {product.get('name')} now at {price}€"
+                body = (
+                    f"Product: {product.get('name')}\n"
+                    f"URL: {product['url']}\n"
+                    f"Color: {product['color']}\n"
+                    f"Size: {product['size']}\n"
+                    f"Price: {price} €\n"
+                    f"Target price: {product['target_price']} €\n"
+                    f"Available: {available}"
+                )
+                send_email(subject, body)
+
         except Exception as e:
             print(f"\033[91mError checking product: {e}\033[0m")
             logging.error(f"Error checking product: {e}")
