@@ -215,3 +215,165 @@
 2025-06-22 16:50:10,820 - INFO - --- 2025-06-22 16:50:10 ---
 2025-06-22 16:50:10,820 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-classic-retro-x-fleece-jacket/198077124122.html
 2025-06-22 16:50:18,621 - INFO - Email sent
+2025-06-22 17:35:45,863 - INFO - --- 2025-06-22 17:35:45 ---
+2025-06-22 17:35:45,863 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-better-sweater-fleece-jacket/191743874994.html
+2025-06-22 17:35:54,040 - INFO - Email sent
+2025-06-22 17:35:54,040 - INFO - --- 2025-06-22 17:35:54 ---
+2025-06-22 17:35:54,041 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-classic-retro-x-fleece-jacket/198077124122.html
+2025-06-22 17:35:56,092 - ERROR - Error checking product: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://eu.patagonia.com/de/de/product/mens-classic-retro-x-fleece-jacket/198077124122.html", waiting until "load"
+
+2025-06-22 17:37:16,941 - INFO - --- 2025-06-22 17:37:16 ---
+2025-06-22 17:37:16,942 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-better-sweater-fleece-jacket/191743874994.html
+2025-06-22 17:37:24,848 - INFO - Email sent
+2025-06-22 17:37:24,849 - INFO - --- 2025-06-22 17:37:24 ---
+2025-06-22 17:37:24,849 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-classic-retro-x-fleece-jacket/198077124122.html
+2025-06-22 17:37:31,643 - INFO - Email sent
+2025-06-22 17:37:31,646 - INFO - --- 2025-06-22 17:37:31 ---
+2025-06-22 17:37:31,648 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-capilene-cool-lightweight-shirt/196924496071.html
+2025-06-22 17:37:40,329 - INFO - --- 2025-06-22 17:37:40 ---
+2025-06-22 17:37:40,329 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-baggies-shorts-5-inch/196924991811.html
+2025-06-22 17:37:46,061 - INFO - --- 2025-06-22 17:37:46 ---
+2025-06-22 17:37:46,061 - INFO - Checking product: https://eu.patagonia.com/de/de/product/daily-hoody-sweatshirt/196924322196.html
+2025-06-22 17:37:52,551 - INFO - --- 2025-06-22 17:37:52 ---
+2025-06-22 17:37:52,552 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-back-step-shirt/196924991033.html
+2025-06-22 17:38:02,262 - INFO - --- 2025-06-22 17:38:02 ---
+2025-06-22 17:38:02,262 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-capilene-cool-merino-shirt/196924732834.html
+2025-06-22 17:38:08,557 - INFO - --- 2025-06-22 17:38:08 ---
+2025-06-22 17:38:08,557 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-capilene-cool-merino-shirt/196924732834.html
+2025-06-22 17:38:14,792 - INFO - --- 2025-06-22 17:38:14 ---
+2025-06-22 17:38:14,792 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-capilene-cool-merino-shirt/196924732834.html
+2025-06-22 17:38:20,357 - INFO - --- 2025-06-22 17:38:20 ---
+2025-06-22 17:38:20,358 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-essential-boxer-briefs-3-inch/191743482861.html
+2025-06-22 17:38:28,267 - INFO - Email sent
+2025-06-22 17:38:28,268 - INFO - --- 2025-06-22 17:38:28 ---
+2025-06-22 17:38:28,268 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-essential-boxer-briefs-3-inch/191743482861.html
+2025-06-22 17:38:35,941 - INFO - Email sent
+2025-06-22 17:38:35,942 - INFO - --- 2025-06-22 17:38:35 ---
+2025-06-22 17:38:35,942 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-essential-boxer-briefs-3-inch/191743482861.html
+2025-06-22 17:38:42,552 - INFO - Email sent
+2025-06-22 17:38:42,553 - INFO - --- 2025-06-22 17:38:42 ---
+2025-06-22 17:38:42,553 - INFO - Checking product: https://eu.patagonia.com/de/de/product/merino-wool-crew-socks/195699629707.html
+2025-06-22 17:38:51,676 - INFO - --- 2025-06-22 17:38:51 ---
+2025-06-22 17:38:51,677 - INFO - Checking product: https://eu.patagonia.com/de/de/product/merino-wool-crew-socks/195699629707.html
+2025-06-22 17:38:57,598 - INFO - --- 2025-06-22 17:38:57 ---
+2025-06-22 17:38:57,598 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-hydropeak-volley-shorts-16-inch/198077087618.html
+2025-06-22 17:39:03,982 - INFO - --- 2025-06-22 17:39:03 ---
+2025-06-22 17:39:03,983 - INFO - Checking product: https://eu.patagonia.com/de/de/product/capilene-midweight-liner-gloves/194187039189.html
+2025-06-22 17:39:10,107 - INFO - --- 2025-06-22 17:39:10 ---
+2025-06-22 17:39:10,108 - INFO - Checking product: https://eu.patagonia.com/de/de/product/brodeo-beanie/196924766334.html
+2025-06-22 17:39:10,108 - ERROR - Error checking product: 'size'
+2025-06-22 17:39:10,108 - INFO - --- 2025-06-22 17:39:10 ---
+2025-06-22 17:39:10,108 - INFO - Checking product: https://eu.patagonia.com/de/de/product/miir-patagonia-73-text-12-oz-camp-cup/O2969.html?dwvar_O2969_color=000
+2025-06-22 17:39:10,108 - ERROR - Error checking product: 'color'
+2025-06-22 17:43:49,951 - INFO - --- 2025-06-22 17:43:49 ---
+2025-06-22 17:43:49,951 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-better-sweater-fleece-jacket/191743874994.html
+2025-06-22 17:43:57,898 - INFO - Email sent
+2025-06-22 17:43:57,899 - INFO - --- 2025-06-22 17:43:57 ---
+2025-06-22 17:43:57,899 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-classic-retro-x-fleece-jacket/198077124122.html
+2025-06-22 17:44:04,795 - INFO - Email sent
+2025-06-22 17:44:04,796 - INFO - --- 2025-06-22 17:44:04 ---
+2025-06-22 17:44:04,796 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-capilene-cool-lightweight-shirt/196924496071.html
+2025-06-22 17:44:10,796 - INFO - --- 2025-06-22 17:44:10 ---
+2025-06-22 17:44:10,796 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-baggies-shorts-5-inch/196924991811.html
+2025-06-22 17:44:16,126 - INFO - --- 2025-06-22 17:44:16 ---
+2025-06-22 17:44:16,126 - INFO - Checking product: https://eu.patagonia.com/de/de/product/daily-hoody-sweatshirt/196924322196.html
+2025-06-22 17:44:23,747 - INFO - --- 2025-06-22 17:44:23 ---
+2025-06-22 17:44:23,747 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-back-step-shirt/196924991033.html
+2025-06-22 17:44:33,456 - INFO - --- 2025-06-22 17:44:33 ---
+2025-06-22 17:44:33,457 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-capilene-cool-merino-shirt/196924732834.html
+2025-06-22 17:44:39,121 - INFO - --- 2025-06-22 17:44:39 ---
+2025-06-22 17:44:39,121 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-capilene-cool-merino-shirt/196924732834.html
+2025-06-22 17:44:44,734 - INFO - --- 2025-06-22 17:44:44 ---
+2025-06-22 17:44:44,734 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-capilene-cool-merino-shirt/196924732834.html
+2025-06-22 17:44:50,347 - INFO - --- 2025-06-22 17:44:50 ---
+2025-06-22 17:44:50,347 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-essential-boxer-briefs-3-inch/191743482861.html
+2025-06-22 17:44:55,925 - INFO - --- 2025-06-22 17:44:55 ---
+2025-06-22 17:44:55,926 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-essential-boxer-briefs-3-inch/191743482861.html
+2025-06-22 17:45:01,613 - INFO - --- 2025-06-22 17:45:01 ---
+2025-06-22 17:45:01,614 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-essential-boxer-briefs-3-inch/191743482861.html
+2025-06-22 17:45:07,337 - INFO - --- 2025-06-22 17:45:07 ---
+2025-06-22 17:45:07,338 - INFO - Checking product: https://eu.patagonia.com/de/de/product/merino-wool-crew-socks/195699629707.html
+2025-06-22 17:45:13,037 - INFO - --- 2025-06-22 17:45:13 ---
+2025-06-22 17:45:13,038 - INFO - Checking product: https://eu.patagonia.com/de/de/product/merino-wool-crew-socks/195699629707.html
+2025-06-22 17:45:18,672 - INFO - --- 2025-06-22 17:45:18 ---
+2025-06-22 17:45:18,673 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-hydropeak-volley-shorts-16-inch/198077087618.html
+2025-06-22 17:45:24,281 - INFO - --- 2025-06-22 17:45:24 ---
+2025-06-22 17:45:24,281 - INFO - Checking product: https://eu.patagonia.com/de/de/product/capilene-midweight-liner-gloves/194187039189.html
+2025-06-22 17:45:29,785 - INFO - --- 2025-06-22 17:45:29 ---
+2025-06-22 17:45:29,786 - INFO - Checking product: https://eu.patagonia.com/de/de/product/brodeo-beanie/196924766334.html
+2025-06-22 17:45:36,694 - INFO - --- 2025-06-22 17:45:36 ---
+2025-06-22 17:45:36,695 - INFO - Checking product: https://eu.patagonia.com/de/de/product/miir-patagonia-73-text-12-oz-camp-cup/O2969.html?dwvar_O2969_color=000
+2025-06-22 17:45:36,695 - ERROR - Error checking product: 'size'
+2025-06-22 17:48:36,717 - INFO - --- 2025-06-22 17:48:36 ---
+2025-06-22 17:48:36,720 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-better-sweater-fleece-jacket/191743874994.html
+2025-06-22 17:48:44,612 - INFO - Email sent
+2025-06-22 17:48:44,612 - INFO - --- 2025-06-22 17:48:44 ---
+2025-06-22 17:48:44,612 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-classic-retro-x-fleece-jacket/198077124122.html
+2025-06-22 17:48:51,256 - INFO - Email sent
+2025-06-22 17:48:51,256 - INFO - --- 2025-06-22 17:48:51 ---
+2025-06-22 17:48:51,256 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-capilene-cool-lightweight-shirt/196924496071.html
+2025-06-22 17:48:53,337 - ERROR - Error checking product: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://eu.patagonia.com/de/de/product/mens-capilene-cool-lightweight-shirt/196924496071.html", waiting until "load"
+
+2025-06-22 17:48:53,337 - INFO - --- 2025-06-22 17:48:53 ---
+2025-06-22 17:48:53,337 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-baggies-shorts-5-inch/196924991811.html
+2025-06-22 17:48:55,115 - ERROR - Error checking product: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://eu.patagonia.com/de/de/product/mens-baggies-shorts-5-inch/196924991811.html", waiting until "load"
+
+2025-06-22 17:48:55,116 - INFO - --- 2025-06-22 17:48:55 ---
+2025-06-22 17:48:55,116 - INFO - Checking product: https://eu.patagonia.com/de/de/product/daily-hoody-sweatshirt/196924322196.html
+2025-06-22 17:48:56,447 - ERROR - Error checking product: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://eu.patagonia.com/de/de/product/daily-hoody-sweatshirt/196924322196.html", waiting until "load"
+
+2025-06-22 17:48:56,447 - INFO - --- 2025-06-22 17:48:56 ---
+2025-06-22 17:48:56,447 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-back-step-shirt/196924991033.html
+2025-06-22 17:48:57,611 - ERROR - Error checking product: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://eu.patagonia.com/de/de/product/mens-back-step-shirt/196924991033.html", waiting until "load"
+
+2025-06-22 17:48:57,611 - INFO - --- 2025-06-22 17:48:57 ---
+2025-06-22 17:48:57,611 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-capilene-cool-merino-shirt/196924732834.html
+2025-06-22 18:08:20,952 - INFO - --- 2025-06-22 18:08:20 ---
+2025-06-22 18:08:20,953 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-better-sweater-fleece-jacket/191743874994.html
+2025-06-22 18:08:29,371 - INFO - Email sent
+2025-06-22 18:08:29,371 - INFO - --- 2025-06-22 18:08:29 ---
+2025-06-22 18:08:29,371 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-classic-retro-x-fleece-jacket/198077124122.html
+2025-06-22 18:08:36,000 - INFO - Email sent
+2025-06-22 18:08:36,002 - INFO - --- 2025-06-22 18:08:36 ---
+2025-06-22 18:08:36,002 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-capilene-cool-lightweight-shirt/196924496071.html
+2025-06-22 18:08:41,681 - INFO - --- 2025-06-22 18:08:41 ---
+2025-06-22 18:08:41,681 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-baggies-shorts-5-inch/196924991811.html
+2025-06-22 18:08:47,396 - INFO - --- 2025-06-22 18:08:47 ---
+2025-06-22 18:08:47,397 - INFO - Checking product: https://eu.patagonia.com/de/de/product/daily-hoody-sweatshirt/196924322196.html
+2025-06-22 18:08:53,006 - INFO - --- 2025-06-22 18:08:53 ---
+2025-06-22 18:08:53,007 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-back-step-shirt/196924991033.html
+2025-06-22 18:08:58,586 - INFO - --- 2025-06-22 18:08:58 ---
+2025-06-22 18:08:58,586 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-capilene-cool-merino-shirt/196924732834.html
+2025-06-22 18:09:04,255 - INFO - --- 2025-06-22 18:09:04 ---
+2025-06-22 18:09:04,255 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-capilene-cool-merino-shirt/196924732834.html
+2025-06-22 18:09:09,845 - INFO - --- 2025-06-22 18:09:09 ---
+2025-06-22 18:09:09,846 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-capilene-cool-merino-shirt/196924732834.html
+2025-06-22 18:09:15,499 - INFO - --- 2025-06-22 18:09:15 ---
+2025-06-22 18:09:15,499 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-essential-boxer-briefs-3-inch/191743482861.html
+2025-06-22 18:09:21,059 - INFO - --- 2025-06-22 18:09:21 ---
+2025-06-22 18:09:21,060 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-essential-boxer-briefs-3-inch/191743482861.html
+2025-06-22 18:09:26,661 - INFO - --- 2025-06-22 18:09:26 ---
+2025-06-22 18:09:26,662 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-essential-boxer-briefs-3-inch/191743482861.html
+2025-06-22 18:09:32,291 - INFO - --- 2025-06-22 18:09:32 ---
+2025-06-22 18:09:32,292 - INFO - Checking product: https://eu.patagonia.com/de/de/product/merino-wool-crew-socks/195699629707.html
+2025-06-22 18:09:37,801 - INFO - --- 2025-06-22 18:09:37 ---
+2025-06-22 18:09:37,801 - INFO - Checking product: https://eu.patagonia.com/de/de/product/merino-wool-crew-socks/195699629707.html
+2025-06-22 18:09:43,343 - INFO - --- 2025-06-22 18:09:43 ---
+2025-06-22 18:09:43,343 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-hydropeak-volley-shorts-16-inch/198077087618.html
+2025-06-22 18:09:48,925 - INFO - --- 2025-06-22 18:09:48 ---
+2025-06-22 18:09:48,925 - INFO - Checking product: https://eu.patagonia.com/de/de/product/capilene-midweight-liner-gloves/194187039189.html
+2025-06-22 18:09:54,884 - INFO - --- 2025-06-22 18:09:54 ---
+2025-06-22 18:09:54,885 - INFO - Checking product: https://eu.patagonia.com/de/de/product/brodeo-beanie/196924766334.html
+2025-06-22 18:10:00,490 - INFO - --- 2025-06-22 18:10:00 ---
+2025-06-22 18:10:00,491 - INFO - Checking product: https://eu.patagonia.com/de/de/product/miir-patagonia-73-text-12-oz-camp-cup/O2969.html?dwvar_O2969_color=000
+2025-06-22 18:10:00,491 - ERROR - Error checking product: 'size'

@@ -76,7 +76,7 @@
       "url": "https://eu.patagonia.com/de/de/product/mens-essential-boxer-briefs-3-inch/191743482861.html",
       "site": "patagonia",
       "name": "Men's Essential Boxer Briefs - 3",
-      "target_price": 25,
+      "target_price": 50,
       "color": "Black",
       "size": "M"
     },
@@ -84,7 +84,7 @@
       "url": "https://eu.patagonia.com/de/de/product/mens-essential-boxer-briefs-3-inch/191743482861.html",
       "site": "patagonia",
       "name": "Men's Essential Boxer Briefs - 3",
-      "target_price": 25,
+      "target_price": 50,
       "color": "Fathom Stripe: New Navy",
       "size": "M"
     },
@@ -92,7 +92,7 @@
       "url": "https://eu.patagonia.com/de/de/product/mens-essential-boxer-briefs-3-inch/191743482861.html",
       "site": "patagonia",
       "name": "Men's Essential Boxer Briefs - 3",
-      "target_price": 25,
+      "target_price": 50,
       "color": "Fathom: Forge Grey",
       "size": "M"
     },
@@ -133,15 +133,13 @@
       "site": "patagonia",
       "name": "Brodeo Beanie",
       "target_price": 30,
-      "color": "New Navy",
-      "size": "M"
+      "color": "New Navy"
     },
     {
       "url": "https://eu.patagonia.com/de/de/product/miir-patagonia-73-text-12-oz-camp-cup/O2969.html?dwvar_O2969_color=000",
       "site": "patagonia",
       "name": "MiiR® Patagonia® '73 Text 12-oz Camp Cup",
-      "target_price": 30,
-      "color": "blue"
+      "target_price": 30
     }
   ]
 }
