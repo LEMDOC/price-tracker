@@ -377,3 +377,8 @@ Call log:
 2025-06-22 18:10:00,490 - INFO - --- 2025-06-22 18:10:00 ---
 2025-06-22 18:10:00,491 - INFO - Checking product: https://eu.patagonia.com/de/de/product/miir-patagonia-73-text-12-oz-camp-cup/O2969.html?dwvar_O2969_color=000
 2025-06-22 18:10:00,491 - ERROR - Error checking product: 'size'
+2025-06-22 18:15:28,922 - INFO - --- 2025-06-22 18:15:28 ---
+2025-06-22 18:15:28,922 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-better-sweater-fleece-jacket/191743874994.html
+2025-06-22 18:15:39,331 - INFO - Email sent
+2025-06-22 18:15:39,333 - INFO - --- 2025-06-22 18:15:39 ---
+2025-06-22 18:15:39,333 - INFO - Checking product: https://eu.patagonia.com/de/de/product/mens-classic-retro-x-fleece-jacket/198077124122.html

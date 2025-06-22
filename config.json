@@ -1,5 +1,5 @@
 {
-  "check_interval_minutes": 3,
+  "check_interval_minutes": 60,
   "products": [
     {
       "name": "Men's Better Sweater Fleece Jacket",
@@ -127,21 +127,6 @@
       "target_price": 30,
       "color": "Black",
       "size": "M"
-    },
-    {
-      "url": "https://eu.patagonia.com/de/de/product/brodeo-beanie/196924766334.html",
-      "site": "patagonia",
-      "name": "Brodeo Beanie",
-      "target_price": 30,
-      "color": "New Navy",
-      "size": "M"
-    },
-    {
-      "url": "https://eu.patagonia.com/de/de/product/miir-patagonia-73-text-12-oz-camp-cup/O2969.html?dwvar_O2969_color=000",
-      "site": "patagonia",
-      "name": "MiiR® Patagonia® '73 Text 12-oz Camp Cup",
-      "target_price": 30,
-      "color": "blue"
     }
   ]
 }
