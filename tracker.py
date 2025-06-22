@@ -33,28 +33,22 @@ async def check_prices():
             print(f"\033[97mColor: {product['color']}\033[0m")  # White
             print(f"\033[97mSize: {product['size']}\033[0m")    # White
 
-            # Price color logic
-            if price <= product['target_price']:
-                price_color = "\033[92m"  # Green if at or below target
-            else:
-                price_color = "\033[91m"  # Red if above target
+            print(f"Price: {price} €")
+            print(f"Available: {available}")
 
-            print(f"Price: {price_color}{price} €\033[0m")
-            logging.info(f"Price: {price} €")
-
-            # Availability color logic
-            if available:
-                avail_color = "\033[92m"  # Green if available
-            else:
-                avail_color = "\033[91m"  # Red if not available
-
-            print(f"Available: {avail_color}{available}\033[0m")
-            logging.info(f"Available: {available}")
-
-            # Notification logic (later for email)
-            if price <= product['target_price'] and available:
-                print(f"\033[91m!!! Price dropped below target: {price} € for {product['color']} size {product['size']} !!!\033[0m")
-                logging.info(f"!!! Price dropped below target: {price} € for {product['color']} size {product['size']} !!!")
+            # ✅ FORCE EMAIL SEND — no matter price or availability
+            print(f"\033[91m!!! FORCE SENDING EMAIL FOR DEBUG !!!\033[0m")
+            subject = f"DEBUG TEST: {product.get('name')} now at {price}€"
+            body = (
+                f"Product: {product.get('name')}\n"
+                f"URL: {product['url']}\n"
+                f"Color: {product['color']}\n"
+                f"Size: {product['size']}\n"
+                f"Price: {price} €\n"
+                f"Target price: {product['target_price']} €\n"
+            )
+            send_email(subject, body)
+            print("DEBUG: Email function successfully called")
         
         except Exception as e:
             print(f"\033[91mError checking product: {e}\033[0m")
